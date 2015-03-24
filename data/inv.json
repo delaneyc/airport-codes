@@ -1,0 +1,10 @@
+{
+"id": "inv",
+"code": "inv",
+"name": "Inverness Airport",
+"city": "Inverness",
+"country": "Scotland",
+"description": "Located at the Northern tip of Scotland, *Inv*erness airport is known as the 'Gateway to the Highlands.'",
+"imageCredit": "Delaney Chambers",
+"imageCreditLink": "https://www.flickr.com/photos/delaney_photos"
+}
